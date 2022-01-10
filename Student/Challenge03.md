@@ -1,6 +1,6 @@
 # Challenge 4 - Security & Auditing
 
-[< Previous Challenge](./Challenge03.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge05.md)
+[< Previous Challenge](./Challenge02.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge04.md)
 
 ## Introduction
 

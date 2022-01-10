@@ -1,6 +1,6 @@
 # Challenge 5 - High Availability & Disaster Recovery
 
-[< Previous Challenge](./Challenge04.md) - **[Home](../README.md)** - [Next Challenge >](./Challenge06.md)
+[< Previous Challenge](./Challenge04.md) - **[Home](../README.md)**
 
 ## Introduction
 
