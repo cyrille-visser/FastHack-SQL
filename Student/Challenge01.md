@@ -14,7 +14,6 @@ The objective of this challenge is to migrate AdventureWorks and WWI Databases (
 
 AdventureWorks has provided the following requirements and guidelines:
 
-1. Must take advantage of PaaS services for easier administration.
 1. Database must be able to scale rapidly and easily for seasonal demand.
 1. Requires database backups to be maintained for 1 year, with weekly granularity.
 1. Database can be migrated offline during one of the nightly maintenance windows.
@@ -43,12 +42,11 @@ Wide World Importers has provided the following requirements and guidelines:
 * Read up on [Microsoft Data Migration Assistant](https://www.microsoft.com/en-us/download/details.aspx?id=53595) including [this overview](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-ver15) for more information.
 * Read more on getting started with [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15), and refer to this [Azure Data Studio Quickstart](https://docs.microsoft.com/en-us/sql/azure-data-studio/quickstart-sql-server?view=sql-server-ver15) for more information.
 * Any assessment tool may be used to perform an assessment; DMA (Data Migration Assistant) includes assessment and SKU recommendation tools.
-* Provisioning of some resources, such as Azure SQL Managed Instance, can take some time (potentially several hours, though it typically faster).
 
 ## Advanced Challenges (Optional)
 
 * WWI is interested in understanding the performance impact of zone redundant availability.
-    * Use [Query Store](https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15), [Database Experimentation Assistant](https://docs.microsoft.com/en-us/sql/dea/database-experimentation-assistant-overview?view=sql-server-ver15), or other similar analytics to provide data to back up your analysis; workloads may be simulated using the WWI Order Insert Solution referenced above.
+    * Use [Query Store](https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15), [Database Experimentation Assistant](https://docs.microsoft.com/en-us/sql/dea/database-experimentation-assistant-overview?view=sql-server-ver15), or other similar analytics to provide data to back up your analysis; workloads may be simulated using the WWI Order Insert Solution referenced below.
 
 ## Learning Resources
 

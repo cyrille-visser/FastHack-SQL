@@ -1,10 +1,10 @@
-# Challenge 3 - Performance & Tuning
+# Challenge 2 - Performance & Tuning
 
 [< Previous Challenge](./Challenge01.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge03.md)
 
 ## Introduction
 
-Although SQL Server is easier than ever to deploy with Azure SQL Database knowing how to properly use the monitoring and evaluation tools, like Query Store, can make a difference between an application that simply "performs ok" to one that "flies."  While SQL Server has evolved with features over the years, it's a good idea to understand how these changes might impact an application.
+Although SQL Server is easier than ever to deploy with Azure SQL Database, knowing how to properly use the monitoring and evaluation tools, like Query Store, can make a difference between an application that simply "performs ok" to one that "flies."  While SQL Server has evolved with features over the years, it's a good idea to understand how these changes might impact an application.
 
 ## Description
 
