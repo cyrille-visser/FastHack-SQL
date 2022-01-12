@@ -37,7 +37,6 @@ When you have restored the databases please run this [Issue script](./Resources/
 *Too comfortable?  Eager to do more?  Try these additional challenges!*
 
 * Install and get familiar with this tool to [generate workload](https://geohernandez.net/generating-a-workload-for-sql-server/) against SQL Server and reuse it against your migrated databases in the upcoming challenges.
-* Create a [Jupyter Notebook](https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance?view=sql-server-ver15) with your most used DMVs to run against your databases before and after migration. 
 
 ## Learning Resources
 
