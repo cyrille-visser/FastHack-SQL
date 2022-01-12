@@ -29,7 +29,6 @@ In this hack, database administrators, developers who work extensively with SQL 
 
 ## Repository Contents
 
-- `../Student`
   - Student's Challenge Guide
 
 
