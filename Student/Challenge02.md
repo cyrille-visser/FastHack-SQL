@@ -61,4 +61,6 @@ Working with your team, improve the performance of the query. Provide any script
 * [Administering Relational Databases Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300)
 * [Microsoft Ground-to-Cloud](https://github.com/microsoft/sqlworkshops-sqlg2c/blob/master/README.md) series.
 
-* [Help! I don't know how to optimize the query and I feel stuck!'](./Resources/fix_query.sql?raw=true) ("Save link as...").
+## I'm stuck
+
+* [Help! I don't know how to optimize the query and I need a fix!](./Resources/fix_query.sql?raw=true) ("Save link as...").

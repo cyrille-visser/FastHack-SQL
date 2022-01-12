@@ -42,5 +42,7 @@ As an early implementation to improve security, the team would like to implement
 * [Azure Defender for SQL](https://docs.microsoft.com/en-us/azure/azure-sql/database/azure-defender-for-sql)
 * [Dynamic Data Masking](https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-ver15)
 
-* [Help! I don't know how to implement data masking challenge and I feel stuck'!'](./Resources/datamask.sql?raw=true) ("Save link as...").
-* [Help! I don't know how to implement the advanced data masking challenge and I feel stuck'!'](./Resources/optional_datamask.sql?raw=true) ("Save link as...").
+## I'm stuck
+
+* [Help! I don't know how to implement data masking challenge and I need a fix](./Resources/datamask.sql?raw=true) ("Save link as...").
+* [Help! I don't know how to implement the advanced data masking challenge and I need a fix](./Resources/optional_datamask.sql?raw=true) ("Save link as...").

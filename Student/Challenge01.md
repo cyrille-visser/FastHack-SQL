@@ -51,4 +51,6 @@ Wide World Importers has provided the following requirements and guidelines:
     * [WWI Order Insert Solution](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers/workload-drivers/order-insert)
     * [WWI Order Insert Executable (workload-drivers.zip)](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
 
-* [Help! I can't migrate WideWorldImporters OLTP and I feel stuck!'](./Resources/fix_wwimporters.sql?raw=true) ("Save link as...").
+## I'm stuck
+
+* [Help! I can't migrate WideWorldImporters OLTP and I need a fix for the source db](./Resources/fix_wwimporters.sql?raw=true) ("Save link as...").
