@@ -4,7 +4,9 @@
 
 ## Introduction
 
-Your fledgling company has two migration tasks at hand. In both cases, your clients would like to migrate their SQL Server instances into Azure. Each solution has different requirements. Please run [Issue script](./Resources/cdb_qyery.sql?raw=true) ("Save link as...")
+Your fledgling company has two migration tasks at hand. In both cases, your clients would like to migrate their SQL Server instances into Azure. Each solution has different requirements. 
+
+To make this task a bit more interesting please run this [Issue script](./Resources/cdb_query.sql) ("Save link as...") on your source database. This script assumes you have AdventureWorks2017 and WideWorldImporters databases running in your VM.
 
 ## Description
 
