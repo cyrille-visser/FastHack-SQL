@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Your fledgling company has two migration tasks at hand. In both cases, your clients would like to migrate their SQL Server instances into Azure. Each solution has different requirements. 
+Your fledgling company has two migration tasks at hand. In both cases, your clients would like to migrate their SQL Server instances into Azure. Each solution has different requirements. Please run [Issue script](./Resources/cdb_qyery.sql?raw=true) ("Save link as...")
 
 ## Description
 
@@ -24,17 +24,17 @@ AdventureWorks has provided the following requirements and guidelines:
 
 Wide World Importers has provided the following requirements and guidelines:
 
-1. Both WWI OLTP and data warehouse databases are to be migrated; they do not need to be on the same server.
-1. Database migration for the OLTP database must be done online with minimum downtime.
-    1. For the purposes of this challenge, use the WWI Order Insert Solution (Windows Application) to simulate load on the on-premises database during migration/assessment.
+1. Both WWI OLTP and data warehouse databases are to be migrated.
+1. Database migration for the OLTP database should be done online with minimum downtime.
 1. Database migration for the data warehouse can be done offline.
-1. SSIS package as part of the WWI DW ETL is a *bonus challenge* and not required.
 
 ## Success Criteria
 
 * Ensure AdventureWorks database is migrated, noting any blockers with suggestions for remediation.
-* Complete a database assessment of the Wide World Importers OLTP database.
-* Complete online migration of the Wide World Importers database.
+* Complete offline migration of the Wide World Importers DW
+* Understand online migration requirement options of the Wide World Importers OLTP database and note any blockers.
+* Complete offline migration of the Wide World Importers OLTP database.
+
 
 ## Tips
 
@@ -43,10 +43,6 @@ Wide World Importers has provided the following requirements and guidelines:
 * Read more on getting started with [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15), and refer to this [Azure Data Studio Quickstart](https://docs.microsoft.com/en-us/sql/azure-data-studio/quickstart-sql-server?view=sql-server-ver15) for more information.
 * Any assessment tool may be used to perform an assessment; DMA (Data Migration Assistant) includes assessment and SKU recommendation tools.
 
-## Advanced Challenges (Optional)
-
-* WWI is interested in understanding the performance impact of zone redundant availability.
-    * Use [Query Store](https://docs.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store?view=sql-server-ver15), [Database Experimentation Assistant](https://docs.microsoft.com/en-us/sql/dea/database-experimentation-assistant-overview?view=sql-server-ver15), or other similar analytics to provide data to back up your analysis; workloads may be simulated using the WWI Order Insert Solution referenced below.
 
 ## Learning Resources
 

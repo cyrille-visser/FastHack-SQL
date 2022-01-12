@@ -32,8 +32,7 @@ As an early implementation to improve security, the team would like to implement
 ## Advanced Challenges (Optional)
 
 * For the Data Discovery and Classification task, perform the steps using PowerShell cmdlets or the Rest API.
-* Create a Power BI dashboard to display audit log information.
-* (AdventureWorks database Only -- not LT) Add a Dynamic Data Mask to the HumanResources.EmployeePayHistory Rate column, and then write a query using a MASKED user that illustrates a potential leakage to a user using ad-hoc queries.
+* Add a Dynamic Data Mask to the HumanResources.EmployeePayHistory Rate column, and then write a query using a MASKED user that illustrates a potential leakage to a user using ad-hoc queries.
 
 ## Learning Resources
 * [Azure SQL Fundamentals](https://aka.ms/azuresqlfundamentals)
