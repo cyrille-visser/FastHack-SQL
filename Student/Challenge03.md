@@ -41,3 +41,6 @@ As an early implementation to improve security, the team would like to implement
 * [Data Discovery and Classification Overview](https://docs.microsoft.com/en-us/azure/azure-sql/database/data-discovery-and-classification-overview)
 * [Azure Defender for SQL](https://docs.microsoft.com/en-us/azure/azure-sql/database/azure-defender-for-sql)
 * [Dynamic Data Masking](https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-ver15)
+
+* [Help! I don't know how to implement data masking challenge and I feel stuck'!'](./Resources/datamask.sql?raw=true) ("Save link as...").
+* [Help! I don't know how to implement the advanced data masking challenge and I feel stuck'!'](./Resources/optional_datamask.sql?raw=true) ("Save link as...").

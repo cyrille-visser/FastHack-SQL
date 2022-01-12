@@ -60,3 +60,5 @@ Working with your team, improve the performance of the query. Provide any script
 * [SQL Server Compatibility Levels](https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-database-transact-sql-compatibility-level?view=sql-server-ver15)
 * [Administering Relational Databases Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300)
 * [Microsoft Ground-to-Cloud](https://github.com/microsoft/sqlworkshops-sqlg2c/blob/master/README.md) series.
+
+* [Help! I don't know how to optimize the query and I feel stuck!'](./Resources/fix_query.sql?raw=true) ("Save link as...").
