@@ -19,11 +19,11 @@ In this hack, some prerequisites will be challenge-specific: for example, a chal
 Every company needs a name! You and your team are part of a new SI start-up that is developing a practice on migrating and modernizing data solutions. Then, decide on a hosting environment for your on-premises simulation: you have a lot of flexibility here! Your team may choose to deploy everything into Azure to mimic an on-premises environment, or you may choose to host on a desktop, Docker container, etc.! 
 
 The databases required include:
-* AdventureWorks2017 *or* AdventureWorksLT2017
-    * AdventureWorksLT2017 is a bit easier and faster, better for teams with no prior experience or extremely limited bandwidth.
-    * AdventureWorks2017 is the preferred database as it presents a few challenges but may require a bit of experience and higher bandwidth to migrate, if migrating for a local machine.
+* AdventureWorks2017
 * WideWorldImporters (OLTP)
 * WideWorldImporters (DW)
+
+When you have restored the databases please run this [Issue script](./Resources/cdb_query.sql) ("Save link as..."). This script assumes you have AdventureWorks2017 and WideWorldImporters databases running in your VM.
 
 ## Success Criteria
 
