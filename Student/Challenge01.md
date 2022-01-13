@@ -43,6 +43,8 @@ Wide World Importers has provided the following requirements and guidelines:
 * Read more on getting started with [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15), and refer to this [Azure Data Studio Quickstart](https://docs.microsoft.com/en-us/sql/azure-data-studio/quickstart-sql-server?view=sql-server-ver15) for more information.
 * Any assessment tool may be used to perform an assessment; DMA (Data Migration Assistant) includes assessment and SKU recommendation tools.
 
+## Advanced Challenges (Optional)
+* Complete online migration of the AdventureWorks database.
 
 ## Learning Resources
 
