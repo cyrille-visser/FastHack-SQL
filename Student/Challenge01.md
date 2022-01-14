@@ -8,13 +8,12 @@ Your fledgling company has two migration tasks at hand. In both cases, your clie
 
 ## Description
 
-The objective of this challenge is to migrate AdventureWorks and WWI Databases (OLTP and OLAP) to Azure SQL database. Each presents a unique set of customer requirements; be sure to read the optional advanced challenges -- while completing the advanced challenges is not required for this challenge, it may impact your implementation choices.
+The objective of this challenge is to migrate AdventureWorks and WWI Databases (OLTP) to Azure SQL database. Each presents a unique set of customer requirements; be sure to read the optional advanced challenges -- while completing the advanced challenges is not required for this challenge, it may impact your implementation choices.
 
 ### AdventureWorks 
 
 AdventureWorks has provided the following requirements and guidelines:
 
-1. Database must be able to scale rapidly and easily for seasonal demand.
 1. Requires database backups to be maintained for 1 year, with weekly granularity.
 1. Database can be migrated offline during one of the nightly maintenance windows.
 1. If there are any migration blockers/remediation steps, document them with any suggested fixes.
@@ -24,15 +23,13 @@ AdventureWorks has provided the following requirements and guidelines:
 
 Wide World Importers has provided the following requirements and guidelines:
 
-1. Both WWI OLTP and data warehouse databases are to be migrated.
-1. Database migration for the OLTP database should be done online with minimum downtime.
-1. Database migration for the data warehouse can be done offline.
+1. Database migration for the OLTP database can be done offline during one of the nightly maintenance windows.
+1. If there are any migration blockers/remediation steps, document them with any suggested fixes.
+
 
 ## Success Criteria
 
-* Ensure AdventureWorks database is migrated, noting any blockers with suggestions for remediation.
-* Complete offline migration of the Wide World Importers DW
-* Understand online migration requirement options of the Wide World Importers OLTP database and note any blockers.
+* Ensure AdventureWorks and Wide World Importers databases are migrated, noting any blockers with suggestions for remediation.
 * Complete offline migration of the Wide World Importers OLTP database.
 
 

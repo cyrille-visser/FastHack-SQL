@@ -21,7 +21,6 @@ Every company needs a name! You and your team are part of a new SI start-up that
 The databases required include:
 * AdventureWorks2017
 * WideWorldImporters (OLTP)
-* WideWorldImporters (DW)
 
 When you have restored the databases please run this [Issue script](./Resources/cdb_query.sql) ("Save link as..."). This script assumes you have AdventureWorks2017 and WideWorldImporters databases running in your VM.
 

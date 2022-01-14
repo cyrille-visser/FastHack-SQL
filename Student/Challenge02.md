@@ -18,8 +18,6 @@ The purpose of this challenge is threefold:
 
 To begin, download and open the [Intelligent Query Processing notebook](./Resources/SQLWTH_Challenge3_IntelligentQueryProcessing.ipynb?raw=true) (either "Save link as..." or save the JSON text as a file) using Azure Data Studio or another tool of your choice that can work with a standard Jupyter Notebook. The Notebook will walk you through the test, comparing performance of an analytical query using compatibility mode 130 vs 150.
 
-Follow the steps to create a Log Analytics workspace, a monitoring user, and an Azure Virtual Machine to [enable Azure Monitor SQL Insights ](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/sql-insights-enable) on your subscription, and start monitoring your databases.
-
 While it's clear the SQL Server 2019 version performs better, the challenge is to understand why. Leverage Query Store to evaluate the differences in performance and execution plans.  
 
 ### Understand key blockers
@@ -40,8 +38,7 @@ Working with your team, improve the performance of the query. Provide any script
 ## Success Criteria
 
 * Complete an evaluation using the Notebook in the [Explore New Features](#explore-new-features) section.
-* Verify SQL Insights has been configured.
-* Complete the documentation required in the [Understand Key Blockers](#understand-key-blockers) section.
+* Optimize the query in [Understand Key Blockers](#understand-key-blockers) section.
 
 ## Tips
 
@@ -51,8 +48,7 @@ Working with your team, improve the performance of the query. Provide any script
 
 ## Advanced Challenges (Optional)
 
-* Monitor your SQL deployments with Azure Monitor SQL Insights [log queries](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/get-started-queries). Create and save your own Kusto queries using the Azure Log Analytics workspace you created earlier. 
-* [Create an email alert](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-log) using Log Analytics when CPU% usage reaches over 85%
+* Monitor your SQL deployments with Azure Monitor SQL Insights [log queries](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/get-started-queries).
 
 ## Learning Resources
 
