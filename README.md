@@ -12,9 +12,9 @@ In this hack, database administrators, developers who work extensively with SQL 
 
 * Challenge 0: [Setup](./Student/Challenge00.md)
 * Challenge 1: [Migration](./Student/Challenge01.md)
-* Challenge 3: [Performance & Tuning](./Student/Challenge02.md)
-* Challenge 4: [Security & Auditing](./Student/Challenge03.md)
-* Challenge 5: [High Availability & Disaster Recovery](./Student/Challenge04.md)
+* Challenge 2: [Performance & Tuning](./Student/Challenge02.md)
+* Challenge 3: [Security & Auditing](./Student/Challenge03.md)
+* Challenge 4: [High Availability & Disaster Recovery](./Student/Challenge04.md)
 
 ## Technologies
 
